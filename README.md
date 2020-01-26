@@ -8,3 +8,17 @@ class structure{
   getter
   setter
 }
+
+# The type of method
+
+Regular method automatically pass the instance as the first argument, self
+
+@classmethod
+Class method automaticallu pass the class as the first argument, cls
+
+@static method
+Static method don't pass anything automatically, they don't pass the instance or the class
+
+
+
+
